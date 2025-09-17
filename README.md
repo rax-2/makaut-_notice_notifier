@@ -27,8 +27,6 @@
 
 ## 🖼 Sample Email Preview  
 
-(Add your screenshot here 👇)  
-
 ![Sample Email Screenshot](image.png)  
 
 ---
