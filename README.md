@@ -98,4 +98,4 @@ See the [LICENSE](LICENSE) file for details.
 ---
 
 💡 *Happy Coding & Stay Updated with MAKAUT Notices!* 🎉  
-----
+___
