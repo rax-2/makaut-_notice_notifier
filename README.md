@@ -29,7 +29,7 @@
 
 (Add your screenshot here 👇)  
 
-![Sample Email Screenshot](sample-email.png)  
+![Sample Email Screenshot](image.png)  
 
 ---
 
